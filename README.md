@@ -1,4 +1,4 @@
-# internship
+# flutter animation
 
 A new Flutter project.
 
