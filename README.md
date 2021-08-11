@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-[![Watch the video](https://firebasestorage.googleapis.com/v0/b/hackathon-2aa5f.appspot.com/o/Screen%20Recording%202021-08-11%20at%201.51.25%20AM.mp4?alt=media&token=85f5935a-f2ef-4d6e-844f-9d7c897842d0)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://firebasestorage.googleapis.com/v0/b/hackathon-2aa5f.appspot.com/o/Screen%20Recording%202021-08-11%20at%201.51.25%20AM.mp4?alt=media&token=85f5935a-f2ef-4d6e-844f-9d7c897842d0)
